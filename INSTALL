@@ -1,0 +1,39 @@
+Installation de BitWar Daemon
+=============================
+
+L'installation ne nécessite que le programme Node.js qui interprètera
+le code.
+Vérifiez quand même que le dossier 'node_module' contient bien le module
+'ws'. Si ce n'est pas le cas, quelques étapes supplémentaires seront
+nécessaires.
+
+
+Dépendances
+-----------
+
+  * Node.js	- v0.6.15	- http://nodejs.org/dist/
+  * npm		- v1.1.16	- (Vient avec Node.js)
+  * ws		- v0.4.13	- http://npmjs.org/package/ws
+
+
+Installation de Node.js
+-----------------------
+
+Récupérez la bonne version de Node.js (normallement, n'importe quelle
+version de la branche v0.6.x devrait fonctionner, mais je n'ai travaillé
+qu'avec la version v0.6.15), puis suivre les instruction d'installation.
+
+
+Installation de npm
+-------------------
+
+Normallement, npm a été installé en même temps que Node.js. Si ce n'est pas
+le cas, retourné sur la page où l'on a téléchargé Node.js, puis télécharger
+et installer l'archive de npm.
+
+
+Installation du module 'ws'
+---------------------------
+
+Se déplacez dans le dossier de 'bwd' et utiliser npm pour installer le
+module (npm install ws@0.4.13).

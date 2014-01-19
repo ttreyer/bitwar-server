@@ -1,0 +1,23 @@
+BitWar
+======
+
+BitWar est un jeu de "Bullet Hell" se jouant en multijoueur sur le réseau.
+Le plus important n'est pas de viser ses adversaires, mais plus d'esquiver leurs projectiles et de rester en vie le plus longtemps possible. Le moindre impact étant mortel.
+Choisissez votre vaisseau, chacun ayant son propre motif de tir et montrez votre talent à l'esquive !
+Ce jeu ne nécessite ni installation, ni plug-in. Il se joue dans votre navigateur Web et exploite les derniers standards HTML et JavaScript pour être accessible sur toutes les plate-formes.
+
+
+Installation
+------------
+
+Lire les instructions dans le fichier 'INSTALL'.
+
+
+License
+-------
+
+Tous les fichiers de ce projet, en dehors de ceux se trouvant dans le dossier
+'node_module', sont placés sous license GPLv3 dont une copie se trouve dans
+le fichier 'LICENSE'.
+
+
